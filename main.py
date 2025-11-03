@@ -1,0 +1,1 @@
+print(f"{'[ Integer ]':*^20}")
