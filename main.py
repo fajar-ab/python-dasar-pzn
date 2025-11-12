@@ -1,3 +1,8 @@
-data = "1 2 3 4 | 5 6 7 8"
+k, c, a = input().split()[:3]
+k = int(k)
 
-print(data.split(sep=" | "))
+for i in range(k):
+    for j in range(k):
+        print(c, end="")
+        print(a, end="")
+    print()
