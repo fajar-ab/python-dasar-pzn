@@ -1,8 +1,3 @@
-k, c, a = input().split()[:3]
-k = int(k)
+data = {"nama": "fajar", "ipk": 3.8}
 
-for i in range(k):
-    for j in range(k):
-        print(c, end="")
-        print(a, end="")
-    print()
+print(data.items())
