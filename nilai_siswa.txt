@@ -1,0 +1,4 @@
+alice,80
+dila,90
+eko,70
+agus,85

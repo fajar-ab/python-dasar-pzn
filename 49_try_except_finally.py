@@ -8,3 +8,6 @@ except ValueError:
 
 finally:
     print("program selesai dijalankan")
+    
+else:
+    print("code else")
